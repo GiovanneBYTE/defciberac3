@@ -1,0 +1,26 @@
+ ┬╗   Warning: heroku update available from 7.44.0 to 7.45.0.
+2020-10-10T17:34:27.867322+00:00 app[api]: Release v1 created by user giovanne_25@hotmail.com
+2020-10-10T17:34:27.867322+00:00 app[api]: Initial release by user giovanne_25@hotmail.com
+2020-10-10T17:34:28.068149+00:00 app[api]: Enable Logplex by user giovanne_25@hotmail.com
+2020-10-10T17:34:28.068149+00:00 app[api]: Release v2 created by user giovanne_25@hotmail.com
+2020-10-10T17:35:15.000000+00:00 app[api]: Build started by user giovanne_25@hotmail.com
+2020-10-10T17:35:16.000000+00:00 app[api]: Build failed -- check your build output: https://dashboard.heroku.com/apps/81bae60b-59c9-4e37-97bb-4a7bac3ecca9/activity/builds/7a172119-9e5e-44e4-918a-cec35182a8d6
+2020-10-10T17:39:16.000000+00:00 app[api]: Build started by user giovanne_25@hotmail.com
+2020-10-10T17:39:17.000000+00:00 app[api]: Build failed -- check your build output: https://dashboard.heroku.com/apps/81bae60b-59c9-4e37-97bb-4a7bac3ecca9/activity/builds/c2d5eea4-13f3-4864-98ec-3f6918096fde
+2020-10-10T17:45:35.000000+00:00 app[api]: Build started by user giovanne_25@hotmail.com
+2020-10-10T17:45:36.000000+00:00 app[api]: Build failed -- check your build output: https://dashboard.heroku.com/apps/81bae60b-59c9-4e37-97bb-4a7bac3ecca9/activity/builds/f0000556-5edc-486e-a0ea-54e599838778
+2020-10-10T17:47:14.423418+00:00 heroku[router]: at=info code=H81 desc="Blank app" method=GET path="/" host=defciberac3py1.herokuapp.com request_id=0ed04e47-6697-4305-9cdd-e014af3549a9 fwd="179.228.184.75" dyno= connect= service= status=502 bytes= protocol=https
+2020-10-10T17:47:15.064153+00:00 heroku[router]: at=info code=H81 desc="Blank app" method=GET path="/favicon.ico" host=defciberac3py1.herokuapp.com request_id=67cac7c7-30bc-4e52-8536-90920c655119 fwd="179.228.184.75" dyno= connect= service= status=502 bytes= protocol=https
+2020-10-10T17:47:31.386495+00:00 heroku[router]: at=info code=H81 desc="Blank app" method=GET path="/" host=defciberac3py1.herokuapp.com request_id=c987f090-8930-485d-ad37-7ff71f8a1016 fwd="179.228.184.75" dyno= connect= service= status=502 bytes= protocol=https
+2020-10-10T17:47:31.991160+00:00 heroku[router]: at=info code=H81 desc="Blank app" method=GET path="/favicon.ico" host=defciberac3py1.herokuapp.com request_id=a2fd42ab-9ba5-48fc-9d31-04246695bc89 fwd="179.228.184.75" dyno= connect= service= status=502 bytes= protocol=https
+2020-10-10T17:56:04.093318+00:00 heroku[router]: at=info code=H81 desc="Blank app" method=GET path="/" host=defciberac3py1.herokuapp.com request_id=c7dd19c4-be93-4968-8383-7ad091e27f01 fwd="179.228.184.75" dyno= connect= service= status=502 bytes= protocol=https
+2020-10-10T17:56:04.784803+00:00 heroku[router]: at=info code=H81 desc="Blank app" method=GET path="/favicon.ico" host=defciberac3py1.herokuapp.com request_id=a39d3b66-0a21-4253-969c-983cf03d933b fwd="179.228.184.75" dyno= connect= service= status=502 bytes= protocol=https
+2020-10-10T17:57:26.818051+00:00 heroku[router]: at=info code=H81 desc="Blank app" method=GET path="/" host=defciberac3py1.herokuapp.com request_id=98d94f5a-a3ea-47a6-96e4-7160f7e52702 fwd="179.228.184.75" dyno= connect= service= status=502 bytes= protocol=https
+2020-10-10T17:57:27.393723+00:00 heroku[router]: at=info code=H81 desc="Blank app" method=GET path="/favicon.ico" host=defciberac3py1.herokuapp.com request_id=aa29cc53-1f59-4858-8bf8-745b75f79b71 fwd="179.228.184.75" dyno= connect= service= status=502 bytes= protocol=https
+2020-10-10T18:00:39.904301+00:00 heroku[router]: at=info code=H81 desc="Blank app" method=GET path="/" host=defciberac3py1.herokuapp.com request_id=c5e9656e-a4b8-4055-bd01-9e8dca2eaed6 fwd="179.228.184.75" dyno= connect= service= status=502 bytes= protocol=https
+2020-10-10T18:00:40.487006+00:00 heroku[router]: at=info code=H81 desc="Blank app" method=GET path="/favicon.ico" host=defciberac3py1.herokuapp.com request_id=c5362bd9-412b-4a1b-8879-b4204dcb12a3 fwd="179.228.184.75" dyno= connect= service= status=502 bytes= protocol=https
+2020-10-10T18:20:37.102466+00:00 heroku[router]: at=info code=H81 desc="Blank app" method=GET path="/" host=defciberac3py1.herokuapp.com request_id=b8b20356-0227-4cc7-a1c0-7407e159edf2 fwd="179.228.184.75" dyno= connect= service= status=502 bytes= protocol=https
+2020-10-10T18:20:37.703600+00:00 heroku[router]: at=info code=H81 desc="Blank app" method=GET path="/favicon.ico" host=defciberac3py1.herokuapp.com request_id=f39e66ea-b062-46bb-9ad7-4d3a907fa4e3 fwd="179.228.184.75" dyno= connect= service= status=502 bytes= protocol=https
+2020-10-10T18:21:16.222687+00:00 heroku[router]: at=info code=H81 desc="Blank app" method=GET path="/" host=defciberac3py1.herokuapp.com request_id=35edfa61-c05e-442e-9c9d-a5a58768861d fwd="179.228.184.75" dyno= connect= service= status=502 bytes= protocol=https
+2020-10-10T18:21:16.795106+00:00 heroku[router]: at=info code=H81 desc="Blank app" method=GET path="/favicon.ico" host=defciberac3py1.herokuapp.com request_id=03882dd9-baf7-464b-b755-b1ebcd6ff01e fwd="179.228.184.75" dyno= connect= service= status=502 bytes= protocol=https
+
